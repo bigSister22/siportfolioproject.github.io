@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ICE1</title>
+  </head>
+  <body>
+    <header>
+      <h1>Tom Kidd</h1>
+      <nav>
+        <a href="index.html">Ethan</a>
+        <a href="speakers.html">Wil</a>
+        <a href="schedule.html">Abbey</a>
+      </nav>
+    </header>
+    <img src="images/sketch.jpeg" alt="photo of a website code sketch with pen">
+    <img src="images/splootcorgi.jpg" alt="photo of white corgi splooting">
+    <img src="http://www.commonapp.org/files/school/image/umich-memberpage-header%208.10.15.jpg">
+
+      <p>
+        Take this kiss upon the brow!
+        And, in parting from you now,
+        Thus much let me avow--
+        You are not wrong, who deem
+        That my days have been a dream;
+        Yet if hope has flown away
+        In a night, or in a day,
+        In a vision, or in none,
+        Is it therefore the less gone?
+        All that we see or seem
+        Is but a dream within a dream.
+
+        I stand amid the roar
+        Of a surf-tormented shore,
+        And I hold within my hand
+        Grains of the golden sand--
+        How few! yet how they creep
+        Through my fingers to the deep,
+        While I weep--while I weep!
+        O God! can I not grasp
+        Them with a tighter clasp?
+        O God! can I not save
+        One from the pitiless wave?
+        Is all that we see or seem
+        But a dream within a dream?
+      </p>
+      <p>
+        I carry your heart with me(i carry it in
+        my heart)i am never without it(anywhere
+        i go you go,my dear; and whatever is done
+        by only me is your doing,my darling)
+        i fear
+        no fate(for you are my fate,my sweet)i want
+        no world(for beautiful you are my world,my true)
+        and it's you are whatever a moon has always meant
+        and whatever a sun will always sing is you
+
+        here is the deepest secret nobody knows
+        (here is the root of the root and the bud of the bud
+        and the sky of the sky of a tree called life;which grows
+        higher than the soul can hope or mind can hide)
+        and this is the wonder that's keeping the stars apart
+      </p>
+      <form>
+      		Name:
+      		<input type="text" name="name" id = "name"></label><br>
+      		<label for="dob">DOB:</label>
+      		<input type="date" name="DOB" id = "dob"><br>
+
+      		Please enter your choice of snack:<br>
+      		<input type="radio" name="snack" value="pizza"> Pizza<br>
+        	<input type="radio" name="snack" value="donut"> Donut<br>
+        	<input type="radio" name="snack" value="vegan"> Vegan Stuff<br>
+
+        	Please enter your choice of drink:<br>
+      		<input type="radio" name="drink" value="coffee"> Coffee<br>
+        	<input type="radio" name="drink" value="tea"> Tea<br>
+        	<input type="radio" name="drink" value="water"> Water<br>
+      </form>
+  </body>
+</html>
