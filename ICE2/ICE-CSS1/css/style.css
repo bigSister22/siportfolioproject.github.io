@@ -1,0 +1,53 @@
+
+*{
+	margin:0;
+}
+
+header{
+	text-align: right;
+	background-color: yellow;
+}
+
+nav{
+	background-color: green;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	/*display: inline-block;*/
+	
+}
+
+nav li{
+	display: inline-block; 
+}
+
+nav li a{
+	background-color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: white;
+}
+
+aside{
+	background-color: white;
+	padding-right: 80px;
+	padding-bottom: 255px;
+	position: absolute;
+	right: 0px;
+}
+
+footer{
+	background: green;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+body{
+	background: grey;
+}
+
+#content p{
+	margin-right: 300px;
+}
