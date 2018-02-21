@@ -1,0 +1,48 @@
+@media only screen and (min-width: 1000px){
+
+
+    .photo-cell{
+        width: 47%;
+        display: inline;
+    }
+
+    .photo-cell img{
+        width:47%;
+        display: inline;
+    }
+
+    .photo-cell.sub-cell img {
+        width: 24.25%;
+        display: inline;
+    }
+
+    .top-nav ul{
+        text-align: right;
+    }
+}
+
+
+
+@media only screen and (min-width: 650px){
+    nav ul {
+        text-align: center;
+        display: inline-flex;
+    }
+
+    nav li {
+        display: inline;
+        padding: .25em;
+    }
+
+    .top-nav ul li a  {
+        display: inline;
+    }
+
+    .sub-cell img {
+        width: 49%;
+        display: inline;
+    }
+	}
+}
+
+

@@ -33,6 +33,10 @@ nav li a{
 li{
 	list-style:none;
 }
+/*
+div#content{
+	list-style: none;
+}*/
 
 aside ul li{
 	list-style: disc;
