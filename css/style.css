@@ -1,0 +1,154 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+
+/*color: #00A2FF;
+font-family: avenir;
+text-decoration:none;*/
+
+/*#logo-image{
+	height: 35px;
+	width:70px;
+}*/
+body{
+	font-family: avenir;
+/*	background-color: #00A2FF;
+*/	color:#00A2FF;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+#my-name{
+	color: white;
+}
+
+.navbar{
+	margin-bottom: 0;
+	border-radius: 0;
+	background-color: #00A2FF;
+	/*background: linear-gradient( #00A2FF , white);*/
+	color:white;
+	padding: 3% 0;
+	font-size: 1.5em;
+	border:0;
+	/*position: fixed;*/
+}
+
+.navbar-inverse .navbar-nav li a{
+	color: #D5D5D5;
+}
+
+.navbar-brand{
+	float:left;
+	min-height: 55px;
+	padding: 15px 15px;
+	font-size: 2em;
+}
+
+
+
+
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover{
+	color: #00A2FF;
+	background-color: white;
+	margin:0;
+	border: 0;
+	border-radius: 4%;
+}
+
+
+#trust-knot{
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+/*.carousel-caption{
+	top:50%;
+	transform: translateY(-50%);
+	text-transform: uppercase;
+}*/
+
+.about-me{
+	/*background-image: url(../images/redwoods.jpg) !important;
+	background-size: 100% 600px;*/
+	/*width: 100%;*/
+	color: #00A2ff;
+	font-size: 1.2em;
+}
+
+
+.about-me-text{
+	/*background: linear-gradient( #00A2FF , white);*/
+	/*background-color: #00A2ff;
+	border-radius: 10%;
+	padding: 2em;*/
+}
+
+.container{
+	padding: 3em;
+	
+}
+
+#headshot{
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+    border-radius: 10%;
+
+}
+
+
+.portfolio{
+	background-color: #00A2FF;
+	color: white;
+	padding-top: 1.5em;
+	padding-bottom: 3em;
+}
+
+/*h1{
+	color: #00A2FF;
+}*/
+
+h1,p{
+	text-align: center;
+}
+
+a{
+	color:#00A2FF;
+}
+
+#project{
+	max-width: 350px;
+	min-width: 350px;
+	max-height: 200px;
+	height: auto;
+	margin: 1% auto;
+	border:solid white;
+	border-radius: 5%;
+	padding: 4%;
+	/*margin: 2%;*/
+
+}
+
+/*footer*/
+
+.footer-contact{
+	text-align: center;
+	padding: 3em;
+}
+
+.social-icons{
+	font-size: 48px;
+}
+/*#project-2 {
+  max-width: 90%;
+}*/
+
+
