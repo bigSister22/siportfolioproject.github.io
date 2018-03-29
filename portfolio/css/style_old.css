@@ -1,0 +1,78 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+
+.logo-name{
+	color: #00A2FF;
+	font-family: avenir;
+	text-decoration:none;
+	text-align: center;
+	font-size: 1.5em;
+	display: inline;
+	/*position: absolute;*/
+	margin-left: 15px;
+	float: left;
+}
+
+/*#tom{
+	color: #00A2FF;
+	font-family: avenir;
+	text-decoration:none;
+	top: 300px;
+	display: block;
+	margin-left: 15px;
+}*/
+
+
+
+.top-nav{
+	/*float: right;*/
+	margin-top: 10px;
+	text-align: center;
+	margin:.938em;
+	/*background-color: #00A2FF;*/
+
+}
+
+.top-nav li{
+	display: inline;
+	padding: .1em;
+}
+
+.top-nav li a{
+	color: #00A2FF;
+	font-family: avenir;
+	text-decoration:none;
+	/*font-size:1em;*/
+	font-size: 1.5em;
+	margin: .1em;
+	padding: .1em;
+	width: 2em;
+	border-style: solid;
+	border-color: #00A2FF;
+	border-width: 1px;
+	border-radius: 18px;
+
+}
+
+
+.top-text, h1{
+	background-color: white;
+	display: inline;
+	color: #00A2FF;
+	font-family: avenir;
+	text-decoration:none;
+	/*text-align: center;*/
+}
+	
+
+#guptapic{
+	height:400px;
+}
+
+
+#resume{
+	height:10px;
+}
