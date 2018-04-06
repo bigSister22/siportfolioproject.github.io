@@ -128,7 +128,7 @@ a{
 	color:#00A2FF;
 }
 
-#project{
+.project{
 	max-width: 350px;
 	min-width: 350px;
 	max-height: 200px;
