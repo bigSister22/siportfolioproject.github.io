@@ -108,6 +108,14 @@ img{
 	background-image: url("../images/grasswall.jpg")
 }
 
+@media only screen and (max-width: 600px) {
+	.container-special {
+		padding: 4em;
+		background-image: none;
+		background-color: black;
+	}
+}
+
 #headshot{
     max-width: 100%;
     height: auto;
