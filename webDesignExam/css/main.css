@@ -1,0 +1,26 @@
+/*Do they have to be next to each other?*/
+*{
+	margin: 0;
+	padding: 0; 
+}
+
+h1{
+	color: white;
+}
+
+body{
+	background-image: url(../images/christmas-dark.png);
+}
+
+.box{
+	/*display: inline-block;*/
+}
+
+img{
+	display: inline-block;
+	border: solid blue 5px;
+	padding:5%;
+	max-height: 300px;
+	max-width: 50%;
+	
+}
